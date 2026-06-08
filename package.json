@@ -1,0 +1,35 @@
+{
+  "name": "using-pre-built-react-components",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.11",
+    "@mui/material": "^5.15.11",
+    "@reduxjs/toolkit": "^2.11.2",
+    "axios": "^1.8.1",
+    "dotenv": "^17.2.3",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.11.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
